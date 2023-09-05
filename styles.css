@@ -1,0 +1,44 @@
+* {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 100px;
+    color: #176B87;
+    text-shadow: 3px 3px black;
+    text-align: center;
+    background-image: url(./images/pattern.jpeg);
+}
+
+h1:hover {
+    color: #F4EEEE;
+}
+
+.craft {
+    font-size: 32px;
+    color: #fff;
+}
+
+.brush {
+    background-color: #E2C799;
+}
+
+.frame {
+    background-color: #C08261;
+
+}
+
+.items {
+    font-size: 20px;
+    margin-bottom: 3px;
+}
+
+.info {
+    font-weight: normal;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
